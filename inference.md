@@ -1,3 +1,5 @@
+Checking latex. $$x$$ 
+
 # Motivation: Probability V/S Statistics 
 **_What we want to do ? -- we want to determine some unknown quantity._**
 
