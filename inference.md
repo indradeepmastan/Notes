@@ -20,7 +20,7 @@ Statistics need to calculate some parameters to show that results are close to t
 
 **Model distribution**: After finishing the estimation process, we get some value of unknown quantity, in case of linear model we get slop and the intercept of the line to model $y_i = x_i \theta_1 + \theta_2$. 
 
-**_Below, we give big definitions:_**
+**_Below, we give big (important) definitions:_**
 
 #### Point estimate
 Point estimation is the attempt to provide the single “best” prediction of somequantity of interest. In general the quantity of interest can be a single parameteror a vector of parameters in some parametric model, such as the weights in ourlinear regression example. To distinguish estimates of parameters from their true value, our conventionwill be to denote a point estimate of a parameter $\theta$ by $\hat{\theta}$.
