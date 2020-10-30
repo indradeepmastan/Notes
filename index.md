@@ -1,2 +1,2 @@
-This site is made for educational purpose. 
+This documentation is made for educational purpose. 
 
